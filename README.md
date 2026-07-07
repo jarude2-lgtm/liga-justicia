@@ -16,3 +16,21 @@ Y contigo que
 
 ##editado en github
 eso
+
+* A
+* B
+* C
+  * a
+  * b 
+
+
+![Github logo](https://avatars.gitusercontent.com/u/583231?v=4)
+
+
+GitHub supports emoji!
+:+1: :sparkles: 
+:camel: 
+:tada: 
+:rocket: 
+:metal: 
+:octocat: 
